@@ -18,7 +18,7 @@ Uma aplicação de busca e visualização dos 151 primeiros Pokémon usando a Po
 - [PokeAPI](https://pokeapi.co/) - API gratuita para obter dados sobre os Pokémon.
 
 ## Página
-
+<img src="img/Page_pokemon.png" alt="Interface de controle do robô" width="850" height="500">
 
 ## Como Rodar o Projeto
 
